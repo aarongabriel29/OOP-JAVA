@@ -1,6 +1,7 @@
 //EXERCISE 2
 //RE-ASSIGNING VALUES TO VARIABLES
 
+import java.io.*;
 
 public class AlonzoAGTExer2 {
 	 public static void main(String[] args) {
